@@ -1,1 +1,3 @@
 line 1
+
+line 2 from feature1
